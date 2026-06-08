@@ -1,3 +1,9 @@
+Updated Ui to match 2026 theming
+
+
+
+
+
 # Laravel 6 Real Estate / Venues Management with Adminpanel
 
 Transformed [Bootstrap theme Homespace](https://colorlib.com/wp/template/homespace/) into a mini-clone of [Hirespace.com](https://hirespace.com) portal, fully manageable with adminpanel generated with [QuickAdminPanel](https://quickadminpanel.com), 
