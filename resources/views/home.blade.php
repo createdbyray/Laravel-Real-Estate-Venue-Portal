@@ -1,4 +1,4 @@
-@extends('layouts.front')
+[@extends('layouts.front')
 
 @section('content')
     <div class="slide-one-item home-slider owl-carousel">
@@ -140,24 +140,4 @@
                     @foreach ($locations as $location)
 
                     <div class="slide-item">
-                        <div class="team-member text-center">
-                            <a href="{{ route('location', $location->slug) }}">
-                                <img src="{{ $location->getFirstMediaUrl('photo') }}" alt="{{ $location->name }}" class="img-fluid mb-4 w-50 rounded-circle mx-auto">
-                            </a>
-                            <div class="text p-3">
-                                <a href="{{ route('location', $location->slug) }}">
-                                    <h2 class="mb-2 font-weight-light text-black h4">{{ $location->name }}</h2>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-
-                    @endforeach
-
-                </div>
-
-            </div>
-        </div>
-    </div>
-
-@endsection
+         ]
