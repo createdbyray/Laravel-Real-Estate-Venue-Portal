@@ -1,4 +1,4 @@
-Updated Ui to match 2026 theming
+07/06/26 to 08/06/26-- UPGRADED AUTH + HOME SCREEN TO BRING APP INTO 2026
 
 
 
